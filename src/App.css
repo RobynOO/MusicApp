@@ -1,0 +1,37 @@
+/* .search-bar {
+  margin: 1em 0 0 7em;
+  width: 700px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 2em;
+  font-size: 20px;
+}
+
+input[type='text'] {
+  padding-left: 10px;
+} */
+
+
+/* .login-page-div{
+  background-color: red;
+  margin-top: 300px;
+  max-width: 250px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.login-page-div{
+  margin-top: 300px;
+}
+
+h1, a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.login-link{
+  color: rgb(185, 41, 125);
+}

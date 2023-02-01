@@ -1,0 +1,12 @@
+.search-bar {
+  margin: 1em 0 0 7em;
+  width: 700px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 2em;
+  font-size: 20px;
+}
+
+input[type='text'] {
+  padding-left: 10px;
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(8, 9, 31);
+    color: rgb(255, 255, 255);
+  }
+  
+.side-nav {
+    float: left;
+    height: 100vh;
+    border-right: rgb(212, 196, 212) outset 0.1px;
+  }
+  
+  header{
+    padding-left: 2em;
+  }
+  
+  .list-items {
+    list-style: none;
+    padding: 50px;
+    padding-right: 80px;
+    
+  }
+
+.list-items a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    
+
+  }
+
+.list-items a:hover {
+    color: rgb(185, 41, 125);
+    font-size: 15px;
+}
+
+
+.HomeIcon, 
+.LibraryMusicIcon,
+.PlayCircleIcon,
+.AlbumIcon,
+.PersonIcon {
+    vertical-align: middle;
+    position: relative;
+    padding-right: 10px;
+    font-size: 20px;
+}
+ 
